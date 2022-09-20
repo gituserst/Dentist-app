@@ -1,4 +1,4 @@
-# Dentist-app
+# Dentist app
 
 This is a simple Web app for dentist lab, currently on localhost. There are option for registration and insertion.
 
